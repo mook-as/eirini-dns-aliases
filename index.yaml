@@ -66,4 +66,12 @@ entries:
     urls:
     - https://github.com/mook-as/eirini-dns-aliases/releases/download/v0.0.0-dev%2B4-g714c3ec/eirinix-dns-aliases-v0.0.0-dev%2B4-g714c3ec.tgz
     version: v0.0.0-dev+4-g714c3ec
-generated: '2020-08-21T18:15:51+00:00'
+  - apiVersion: v2
+    created: '2020-08-21T19:02:24+00:00'
+    description: Eirini DNS aliases extension helm chart
+    digest: c00d777c8e5f0c0bfd9e85586d801a78d81a876b52293d78c2b3bdcd5dc1d4c1
+    name: eirinix-dns-aliases
+    urls:
+    - https://github.com/mook-as/eirini-dns-aliases/releases/download/v0.0.0-dev%2B4-g4e75871/eirinix-dns-aliases-v0.0.0-dev%2B4-g4e75871.tgz
+    version: v0.0.0-dev+4-g4e75871
+generated: '2020-08-21T19:02:24+00:00'
